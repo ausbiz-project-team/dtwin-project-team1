@@ -1,0 +1,124 @@
+{
+  "content_chunks": [
+    {
+      "id": "career_summary",
+      "title": "Career Summary",
+      "type": "career",
+      "content": "I have six years of work experience at the Department of Environment and Natural Resources (DENR) as a Front Desk Officer in the Hostel Building. I am passionate about achieving the highest level of success in customer service and related functions with expertise in hostel management and administrative operations.",
+      "metadata": {
+        "category": "professional_overview",
+        "tags": ["career", "experience", "customer_service"]
+      }
+    },
+    {
+      "id": "current_role",
+      "title": "Current Employment",
+      "type": "experience",
+      "content": "Waitress at Villagio Ashfield, West Ashfield Leagues Club (Part-time, June 2025 - Present). Responsibilities include greeting patrons, delivering food promptly, maintaining dining area tidiness, and executing closing duties.",
+      "metadata": {
+        "category": "current_employment",
+        "tags": ["employment", "hospitality", "current"]
+      }
+    },
+    {
+      "id": "hostel_officer",
+      "title": "Hostel Front Desk Officer (DENR)",
+      "type": "experience",
+      "content": "Worked as Hostel Front Desk Officer at Department of Environment and Natural Resources for 5 years 11 months (January 2019 - November 2024). Key responsibilities included daily room monitoring, hostel disinfection, guest reservations, check-in/check-out, folio preparation, payment processing, monthly reports, database management, and optimal customer service delivery.",
+      "metadata": {
+        "category": "past_employment",
+        "tags": ["employment", "hospitality", "administrative"]
+      }
+    },
+    {
+      "id": "office_support",
+      "title": "Office Support Assistant (DENR)",
+      "type": "experience",
+      "content": "Office Support Assistant at DENR Hostel from July 2018 - December 2018. Maintained accurate records, encoded data into computer programs, compiled reports, organized files, delivered daily collections, and provided customer service.",
+      "metadata": {
+        "category": "past_employment",
+        "tags": ["employment", "administrative", "data_entry"]
+      }
+    },
+    {
+      "id": "administrative_skills",
+      "title": "Administrative Skills",
+      "type": "skill",
+      "content": "Advanced proficiency in administrative tasks with ability to focus on minute details and ensure accuracy in data-entry, record keeping, and administrative operations. Exemplary planning, organization and time management skills with capacity to efficiently manage competing tasks and deadlines.",
+      "metadata": {
+        "category": "core_skills",
+        "tags": ["skills", "administrative", "organization"]
+      }
+    },
+    {
+      "id": "interpersonal_skills",
+      "title": "Interpersonal & Communication Skills",
+      "type": "skill",
+      "content": "Advanced interpersonal and customer service skills with proven ability to establish and maintain productive working relationships. Excellent communication skills demonstrated in clear and easily understood information conveyance both verbally and in written form. Strong teamwork and reliability.",
+      "metadata": {
+        "category": "soft_skills",
+        "tags": ["skills", "communication", "customer_service"]
+      }
+    },
+    {
+      "id": "technical_skills",
+      "title": "Technical Skills",
+      "type": "skill",
+      "content": "Intermediate proficiency in Microsoft Office Suite, Database Management, and Computer Systems. Advanced expertise in Aviation Electronics, Avionics Systems, and Aircraft Maintenance. Skilled in troubleshooting aircraft systems, conducting visual inspections, identifying wear and tear damages.",
+      "metadata": {
+        "category": "technical_skills",
+        "tags": ["skills", "technical", "aviation", "IT"]
+      }
+    },
+    {
+      "id": "education_mba",
+      "title": "Master of Business Administration",
+      "type": "education",
+      "content": "Currently pursuing Master of Business Administration at Asia Pacific International College in Sydney, Australia. Started December 2024. Focus on Business Administration with emphasis on career transition to strategic business management.",
+      "metadata": {
+        "category": "current_education",
+        "tags": ["education", "mba", "ongoing"]
+      }
+    },
+    {
+      "id": "education_bachelor",
+      "title": "Bachelor of Science in Aviation Electronics",
+      "type": "education",
+      "content": "Completed Bachelor of Science in Aviation Electronics Technology from Philippine State College of Aeronautics, Villamor Air Base, Philippines in 2016. Built foundation in aircraft systems, avionics, and electronics.",
+      "metadata": {
+        "category": "formal_education",
+        "tags": ["education", "bachelor", "aviation"]
+      }
+    },
+    {
+      "id": "aircraft_maintenance_training",
+      "title": "Aircraft Maintenance Technician Training",
+      "type": "certification",
+      "content": "Completed Aircraft Maintenance Technician (Apprentice) on-the-job training with Philippine National Police - Special Action Force Air Unit, September 2016 - March 2017 (7 months). Developed competencies in troubleshooting aircraft systems, conducting visual inspections, and identifying damages.",
+      "metadata": {
+        "category": "certifications",
+        "tags": ["certification", "training", "aviation", "maintenance"]
+      }
+    },
+    {
+      "id": "avionics_training",
+      "title": "Avionics Training",
+      "type": "certification",
+      "content": "Completed Avionics Trainee program at Lufthansa Technik Philippines, Inc. Base Maintenance Department, October 2013 - February 2014 (5 months). Gained hands-on experience in inspecting, testing avionics equipment, replacing parts, and ensuring electrical systems functionality.",
+      "metadata": {
+        "category": "certifications",
+        "tags": ["certification", "training", "avionics"]
+      }
+    },
+    {
+      "id": "career_goal",
+      "title": "Career Objective",
+      "type": "career",
+      "content": "Passionate about achieving the highest level of success in customer service and related functions. Currently transitioning from operational hospitality roles to strategic business management through MBA study while maintaining availability for professional opportunities on selected days.",
+      "metadata": {
+        "category": "career_goals",
+        "tags": ["career", "goals", "transition"]
+      }
+    }
+  ]
+}

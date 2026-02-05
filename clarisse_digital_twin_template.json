@@ -1,0 +1,224 @@
+{
+  "personalInfo": {
+    "fullName": "Clarisse Nelagel T. Delos Santos",
+    "contactDetails": {
+      "mobile": "0452050826",
+      "email": "clainecntds@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/clarisse-nelagel-delos-santosa57010137"
+    },
+    "availability": {
+      "workDays": ["Monday", "Wednesday", "Friday", "Saturday", "Sunday"],
+      "restrictions": "Classes (Masters in Business Administration) on Tuesdays and Thursdays",
+      "status": "Available"
+    }
+  },
+  "careerProfile": {
+    "summary": "Six-year work experience at the Department of Environment and Natural Resources (DENR), Republic of the Philippines, as Front Desk Officer in the Hostel Building under the General Services Division.",
+    "keyFocus": "Customer service and client satisfaction with expertise in hostel management and administrative operations",
+    "careerObjective": "Passionate about achieving the highest level of success in customer service and related functions",
+    "yearsOfExperience": 6
+  },
+  "skills": {
+    "administrative": {
+      "proficiency": "Advanced",
+      "description": "Ability to focus on minute details and ensure accuracy in data-entry, record keeping and administrative tasks"
+    },
+    "organizational": {
+      "proficiency": "Advanced",
+      "description": "Exemplary planning, organisation and time management skills with capacity to efficiently manage competing tasks and deadlines"
+    },
+    "relationshipManagement": {
+      "proficiency": "Advanced",
+      "description": "Excellent interpersonal and customer service skills with proven ability to establish and maintain productive working relationships"
+    },
+    "communication": {
+      "proficiency": "Advanced",
+      "description": "Demonstrated ability to convey information in clear and easily understood manner, both verbally and in written form"
+    },
+    "technicalProficiency": {
+      "proficiency": "Intermediate",
+      "tools": ["Microsoft Office", "Database Management", "Computer Systems"]
+    },
+    "hostelManagement": {
+      "proficiency": "Advanced",
+      "areas": ["Guest Relations", "Reservations", "Room Management", "Report Preparation"]
+    },
+    "aviationTechnical": {
+      "proficiency": "Intermediate",
+      "areas": ["Aircraft Maintenance", "Avionics", "Electronics", "Technical Troubleshooting"]
+    }
+  },
+  "employmentHistory": [
+    {
+      "position": "Waitress",
+      "employer": "Villagio Ashfield, West Ashfield Leagues Club",
+      "location": "NSW, Australia",
+      "startDate": "June 2025",
+      "endDate": "Present",
+      "duration": "Current",
+      "employmentType": "Part-time",
+      "keyResponsibilities": [
+        "Greet patrons and members with friendly and professional demeanor",
+        "Deliver food promptly and efficiently following proper service etiquette",
+        "Monitor tables, clear plates and glasses, maintain dining area tidiness",
+        "Set and arrange tables with appropriate cutlery, crockery, glassware, condiments",
+        "Perform closing duties including table resetting and area cleaning",
+        "Execute additional tasks as directed by supervisor"
+      ]
+    },
+    {
+      "position": "Hostel Front Desk Officer",
+      "department": "General Services Division",
+      "employer": "Department of Environment and Natural Resources (DENR)",
+      "location": "Republic of the Philippines",
+      "startDate": "January 2019",
+      "endDate": "November 2024",
+      "duration": "5 years, 11 months",
+      "employmentType": "Full-time",
+      "keyResponsibilities": [
+        "Perform administrative and technical tasks including daily room monitoring",
+        "Handle hostel disinfection and air conditioning usage",
+        "Document and file guest records and reservations",
+        "Report and inspect repairs as needed",
+        "Assist in preparation of weekly, monthly and narrative reports",
+        "Answer hostel direct phone calls and inquiries",
+        "Process guest reservations",
+        "Record check-in and check-out of guests",
+        "Prepare folio and receive payment",
+        "Create hostel monthly/weekly reports with guest statistics",
+        "Update daily hostel manifest and database",
+        "Deliver optimal customer service and manage guest enquiries",
+        "Greet and welcome guests to provide home-like experience"
+      ]
+    },
+    {
+      "position": "Office Support Assistant",
+      "department": "Hostel - General Services Division",
+      "employer": "Department of Environment and Natural Resources (DENR)",
+      "location": "Republic of the Philippines",
+      "startDate": "July 2018",
+      "endDate": "December 2018",
+      "duration": "6 months",
+      "employmentType": "Full-time",
+      "keyResponsibilities": [
+        "Maintain accurate records and databases",
+        "Encode data into computer programs",
+        "Compile reports and organize files",
+        "Receive and forward documents within the Agency",
+        "Deliver and remit hostel daily collection to cashier and accounting office",
+        "Deliver optimal customer service levels",
+        "Manage guest enquiries and resolve concerns"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Business Administration",
+      "institution": "Asia Pacific International College",
+      "location": "Sydney, Australia",
+      "startDate": "December 2024",
+      "endDate": "Present",
+      "status": "In Progress",
+      "fieldOfStudy": "Business Administration"
+    },
+    {
+      "degree": "Bachelor of Science",
+      "major": "Aviation Electronics Technology",
+      "institution": "Philippine State College of Aeronautics",
+      "location": "Villamor Air Base, Philippines",
+      "graduationYear": 2016,
+      "status": "Completed"
+    },
+    {
+      "degree": "Associate Degree",
+      "major": "Aviation Electronics Technology",
+      "institution": "Philippine State College of Aeronautics",
+      "location": "Villamor Air Base, Philippines",
+      "graduationYear": 2014,
+      "status": "Completed"
+    }
+  ],
+  "trainingAndCertifications": [
+    {
+      "title": "Aircraft Maintenance Technician (Apprentice)",
+      "provider": "Philippine National Police - Special Action Force Air Unit",
+      "location": "Republic of the Philippines",
+      "startDate": "September 2016",
+      "endDate": "March 2017",
+      "duration": "7 months",
+      "type": "On-the-Job Training",
+      "keyCompetencies": [
+        "Troubleshooting aircraft systems, engines and avionics",
+        "Conducting visual inspections",
+        "Identifying wear and tear damages",
+        "Performing assigned maintenance duties"
+      ]
+    },
+    {
+      "title": "Essential Electronics for Aviation",
+      "provider": "MFI Foundation Incorporated",
+      "location": "Republic of the Philippines",
+      "startDate": "September 2015",
+      "endDate": "October 2015",
+      "duration": "2 months",
+      "type": "Certificate Program",
+      "focus": "Aviation industry technology and electronics for safe and efficient operations"
+    },
+    {
+      "title": "Avionics (Trainee)",
+      "provider": "Lufthansa Technik Philippines, Inc.",
+      "department": "Base Maintenance Department",
+      "location": "Republic of the Philippines",
+      "startDate": "October 2013",
+      "endDate": "February 2014",
+      "duration": "5 months",
+      "type": "On-the-Job Training",
+      "keyCompetencies": [
+        "Inspecting and testing avionics equipment",
+        "Replacing parts",
+        "Ensuring electrical systems functionality"
+      ]
+    }
+  ],
+  "competencySummary": {
+    "coreCompetencies": [
+      "Customer Service Excellence",
+      "Administrative Management",
+      "Hospitality Operations",
+      "Database Management",
+      "Guest Relations",
+      "Report Writing",
+      "Time Management",
+      "Problem Solving"
+    ],
+    "technicalCompetencies": [
+      "Microsoft Office Suite",
+      "Database Systems",
+      "Aviation Electronics",
+      "Avionics Systems",
+      "Aircraft Maintenance"
+    ],
+    "softSkills": [
+      "Communication",
+      "Interpersonal Relations",
+      "Customer Service",
+      "Teamwork",
+      "Attention to Detail",
+      "Organization",
+      "Reliability"
+    ]
+  },
+  "careerTransition": {
+    "currentPhase": "Academic Enhancement & Career Diversification",
+    "previousFocus": "Hospitality Management & Customer Service",
+    "educationalFocus": "Business Administration",
+    "careerPath": "Transition from operational hospitality roles to strategic business management"
+  },
+  "metadata": {
+    "resumeVersion": "1.0",
+    "lastUpdated": "2025-02-05",
+    "location": "Sydney, Australia",
+    "workAuthorization": "Australian Work Rights (implied from current employment)",
+    "languages": ["English", "Filipino/Tagalog (implied)"]
+  }
+}
